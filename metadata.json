@@ -1,0 +1,6 @@
+{
+  "name": "SPAM",
+  "description": "An ultra-fast, chaotic browser arcade featuring the SPAM speed clicker campaign, Element Craft infinite alchemy, Chain Reactor physics, and Chroma Symphony melodic synth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
